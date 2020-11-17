@@ -14,7 +14,6 @@
  <h3>Have you tried Kahoot? It's a great way to play with friends to assert knowledge</h3>
  <h5>...test your knowledge here :point_right:</h5>
 <h6 font-weight: bold> React<br>JavaScript<br>CSS<br>tech world</h6>
-<img src="https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png">
 <h3>Connect with me:</h3>
-<h6>Frontend mentor<br>Hacker Rank<h6>Behance<h6>Code Pen<h6>Platzi
+<h6>Frontend mentor<br>HackerRank<br>Behance<br>CodePen<br>Platzi</h6>
 
