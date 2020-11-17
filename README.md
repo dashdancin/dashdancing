@@ -1,5 +1,9 @@
 <p align="center">
   <img src="https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png">
-  <h1> Hey you! :v::alien: </h1>
 </p>
-  
+ <h1> Hey you! :v::alien: </h1>
+ <h2> have 5 questions for you and I would like you to leave a pull requests with your answers.</h2>
+ <ul list-style-type: decimal;>
+ <li> 1.- What was the strangest thing you saw or happened in this 2020? </li>
+ <li> If you had the opportunity to change something in the world, what would it be? Are you currently working on it? Tell me how are you going </li>
+ <li> Do you consider that one day the prophecy of technological singularity will be fulfilled, how do you think it will happen? </li>
