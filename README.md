@@ -13,5 +13,5 @@
  <h5>To know or contribute you can do it here :point_right:</h5>
  <h3>Have you tried Kahoot? It's a great way to play with friends to assert knowledge</h3>
  <h5>Test your knowledge here :point_right:</h5>
-<h3 font-weight: bold> React <br> JavaScript <br> CSS <br> Mundo Tecnología</h3>
+<h6 font-weight: bold> React<br>JavaScript<br>CSS<br>tech world</h6>
 <h3>Connect with me:</h3>
