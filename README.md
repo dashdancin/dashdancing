@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GtHub Header jcmexdev](https://user-images.githubusercontent.com/47696378/98775745-5826fb80-23b3-11eb-83df-35054aa6197e.png)
+![GtHub Header jcmexdev](https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png)
 **dashdancing/dashdancing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
