@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png">
+  <h1>Hey you! :v::alien:</h1>
 </p>
- <h1>Hey you! :v::alien:</h1>
  <h3>I have 3 questions for you :shipit:</h3>
    <ul list-style-type: decimal;>
    <li> What was the strangest or most incredible thing that happened to you in this 2020?</li>
@@ -10,8 +10,8 @@
  <h5>...leave me your answers here :point_right:</h5>
  <h3>You've probably heard of Softskills :ear:</h3>
  <p>I consider that these are skills that serve you for work and also for life and I have started a compendium defining some of the competencies and skills most sought after by large companies and startups</p>
- <h5>To know or contribute you can do it here :point_right:</h5>
+ <h5>...to know or contribute you can do it here :point_right:</h5>
  <h3>Have you tried Kahoot? It's a great way to play with friends to assert knowledge</h3>
- <h5>Test your knowledge here :point_right:</h5>
+ <h5>...test your knowledge here :point_right:</h5>
 <h6 font-weight: bold> React<br>JavaScript<br>CSS<br>tech world</h6>
 <h3>Connect with me:</h3>
