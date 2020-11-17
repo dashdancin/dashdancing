@@ -9,4 +9,5 @@
  <li>Assuming that one day the prophecy of technological singularity will be fulfilled. How do you think it will happen?</li> 
  <h3>...leave me your answers here :point_right:</h3>
  <br>
- <h3>You've probably heard of Softskills. I consider that these are skills that serve you for work and also for life and I have started a compendium defining some of the competencies and skills most sought after by large companies and startups. To know or contribute you can do it here :point_right:</h3>
+ <h3>You've probably heard of Softskills :ear:</h3>
+ <p>I consider that these are skills that serve you for work and also for life and I have started a compendium defining some of the competencies and skills most sought after by large companies and startups. To know or contribute you can do it here :point_right:</p>
