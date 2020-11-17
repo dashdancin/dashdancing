@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![GtHub Header jcmexdev](https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png)
+<img align="center" https://github.com/dashdancing/dashdancing/blob/main/assets/monoplazaf1.png />
+
+Fuente: https://www.iteramos.com/pregunta/34047/-github-readmemd-imagen-central-
 **dashdancing/dashdancing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
