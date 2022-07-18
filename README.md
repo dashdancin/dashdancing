@@ -23,7 +23,4 @@ I'm a frontend developer, I build mainly with React, for now... I like design, I
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 
-
-### Languages and Tools that I've worked with
-
 ![Github gif](https://i.ibb.co/nwtcqmx/2d8ee815146390d567706f2c7b5c2916-1.gif)        **Follow me**                                                                        <a href = 'https://mx.linkedin.com/in/omar-gbet'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>         <a href = 'https://www.github.com/dashdancin'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/332084/github.svg"/></a> <a href = 'https://www.twitter.com/dashdancin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <a href = 'https://www.behance.net/omar-gbet'> <img width = '32px' align= 'center' src="https://greenknow.co/wp-content/uploads/2021/04/BEHANCE.png"/></a>
