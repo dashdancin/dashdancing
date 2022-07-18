@@ -1,5 +1,5 @@
 
-![Omar Gbet in Lego Font](https://i.ibb.co/H7dWNR4/festisite-lego.png)
+![Omar Gbet in Lego Font](https://i.ibb.co/4Z2mhyK/festisite-lego.png)
 
 
 
