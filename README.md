@@ -1,5 +1,3 @@
-![Omar Gbet in Lego Font](https://i.ibb.co/4Z2mhyK/festisite-lego.png)
-
 ## :wave: Nice to have you here. Welcome, I'm Omar.
 
 I'm a frontend developer, I build mainly with React, for now... I like design, I have an idea that may seem strange to you but let me tell you... I think that design improves people's lives, from a typography to the urban design of cities. If you think about it a bit it makes sense, the design means that someone thought about how people interact with the products. I am also interested in behavioral economics. I have a background as a psychologist and it seems to me that if you look closely, everything has a psychological component. Needless to say, the way users interact with our products is based on habits, biases and behaviors.
